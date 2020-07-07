@@ -18,7 +18,7 @@ function App() {
             <Link to="/topics">Topics</Link>
           </li>
           <li>
-            <Link to="/page-1">Builder Page 1</Link>
+            <Link to="/test-page">Builder Page 1 - aka TEST PAGE</Link>
           </li>
           <li>
             <Link to="/page-2">Builder Page 2</Link>
